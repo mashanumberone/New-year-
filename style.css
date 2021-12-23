@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 34);
+    color: white;
+}
+
+h1 , i {
+    color: rgb(255, 0, 76);
+    text-align: center;
+    font-family: monospace
+}
+
+footer {
+   text-decoration: underline rgb(255, 0, 76);
+   color: rgb(255, 0, 76);
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: rgb(255, 0, 76);
+}
+
+.masa {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 0, 76);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.no {
+    height: 450px;
+    width: 700px;
+    border-radius: 5px;
+}
+
+.ma {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 0, 76);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cat {
+    width: 100px;
+}
+
+.do {
+    border-radius: 15px;
+}
